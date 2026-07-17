@@ -3,8 +3,8 @@
 import { useState } from "react";
 import { ChevronDown } from "lucide-react";
 
-import Section from "./Section";
-import SectionTitle from "./SectionTitle";
+import Section from "../ui/Section";
+import SectionTitle from "../ui/SectionTitle";
 
 const faqs = [
   {

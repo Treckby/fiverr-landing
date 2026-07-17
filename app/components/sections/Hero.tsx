@@ -1,6 +1,6 @@
-import Badge from "./Badge";
-import Button from "./Button";
-import Container from "./Container";
+import Badge from "../ui/Badge";
+import Button from "../ui/Button";
+import Container from "../ui/Container";
 import {
   ArrowRight,
   CheckCircle,

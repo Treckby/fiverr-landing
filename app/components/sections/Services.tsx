@@ -5,10 +5,10 @@ import {
   ArrowRight,
 } from "lucide-react";
 
-import Card from "./Card";
-import Button from "./Button";
-import Section from "./Section";
-import SectionTitle from "./SectionTitle";
+import Card from "../ui/Card";
+import Button from "../ui/Button";
+import Section from "../ui/Section";
+import SectionTitle from "../ui/SectionTitle";
 
 const services = [
   {

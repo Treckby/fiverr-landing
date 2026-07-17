@@ -1,8 +1,8 @@
 import { Star } from "lucide-react";
 
-import Card from "./Card";
-import Section from "./Section";
-import SectionTitle from "./SectionTitle";
+import Card from "../ui/Card";
+import Section from "../ui/Section";
+import SectionTitle from "../ui/SectionTitle";
 
 const testimonials = [
   {

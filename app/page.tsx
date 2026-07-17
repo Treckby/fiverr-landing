@@ -1,16 +1,16 @@
-import Container from "./components/Container";
-import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
-import Companies from "./components/Companies";
-import Services from "./components/Services";
-import Features from "./components/Features";
-import Portfolio from "./components/Portfolio";
-import Process from "./components/Process";
-import Testimonials from "./components/Testimonials";
-import Pricing from "./components/Pricing";
-import FAQ from "./components/FAQ";
-import CTA from "./components/CTA";
-import Footer from "./components/Footer";
+import Container from "./components/ui/Container";
+import Navbar from "./components/layout/Navbar";
+import Hero from "./components/sections/Hero";
+import Companies from "./components/sections/Companies";
+import Services from "./components/sections/Services";
+import Features from "./components/sections/Features";
+import Portfolio from "./components/sections/Portfolio";
+import Process from "./components/sections/Process";
+import Testimonials from "./components/sections/Testimonials";
+import Pricing from "./components/sections/Pricing";
+import FAQ from "./components/sections/FAQ";
+import CTA from "./components/sections/CTA";
+import Footer from "./components/layout/Footer";
 
 export default function Home() {
   return (
