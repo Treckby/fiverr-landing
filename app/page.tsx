@@ -3,6 +3,8 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Companies from "./components/Companies";
 import Services from "./components/Services";
+import Features from "./components/Features";
+
 export default function Home() {
   return (
     <main>
@@ -11,6 +13,7 @@ export default function Home() {
         <Hero />
        <Companies />
        <Services/>
+       <Features />
     </main>
   );
 }
