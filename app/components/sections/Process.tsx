@@ -5,7 +5,7 @@ import {
   Rocket,
 } from "lucide-react";
 
-import Card from "../ui/Card";
+import Card from "@/app/components/ui/Card";
 import Section from "../ui/Section";
 import SectionTitle from "../ui/SectionTitle";
 

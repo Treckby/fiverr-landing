@@ -1,8 +1,8 @@
 "use client";
 
 import Link from "next/link";
-import Container from "../ui/Container";
-import Button from "../ui/Button";
+import Container from "@/app/components/ui/Container";
+import Button from "@/app/components/ui/Button";
 
 const links = [
     {

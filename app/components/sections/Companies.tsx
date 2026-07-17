@@ -1,4 +1,4 @@
-import Section from "../ui/Section";
+import Section from "@/app/components/ui/Section";
 
 const companies = [
   "NovaTech",

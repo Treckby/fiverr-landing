@@ -1,5 +1,5 @@
 import { ReactNode } from "react";
-import Container from "./Container";
+import Container from "@/app/components/ui/Container";
 
 interface SectionProps {
   children: ReactNode;

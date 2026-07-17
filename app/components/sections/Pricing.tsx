@@ -1,9 +1,9 @@
 import { Check } from "lucide-react";
 
-import Card from "../ui/Card";
-import Button from "../ui/Button";
-import Section from "../ui/Section";
-import SectionTitle from "../ui/SectionTitle";
+import Card from "@/app/components/ui/Card";
+import Button from "@/app/components/ui/Button";
+import Section from "@/app/components/ui/Section";
+import SectionTitle from "@/app/components/ui/SectionTitle";
 
 const plans = [
   {

@@ -5,31 +5,12 @@ import {
   ArrowRight,
 } from "lucide-react";
 
-import Card from "../ui/Card";
-import Button from "../ui/Button";
-import Section from "../ui/Section";
-import SectionTitle from "../ui/SectionTitle";
+import Card from "@/app/components/ui/Card";
+import Button from "@/app/components/ui/Button";
+import Section from "@/app/components/ui/Section";
+import SectionTitle from "@/app/components/ui/SectionTitle";
+import { services } from "@/app/data/services";
 
-const services = [
-  {
-    icon: Globe,
-    title: "Landing Pages",
-    description:
-      "Landing pages modernas diseñadas para captar clientes y aumentar las conversiones.",
-  },
-  {
-    icon: ShoppingCart,
-    title: "Business Websites",
-    description:
-      "Sitios web profesionales para empresas que buscan fortalecer su presencia digital.",
-  },
-  {
-    icon: Smartphone,
-    title: "Responsive Design",
-    description:
-      "Páginas optimizadas para computadoras, tablets y dispositivos móviles.",
-  },
-];
 
 export default function Services() {
   return (

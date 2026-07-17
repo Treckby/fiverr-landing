@@ -1,16 +1,16 @@
-import Container from "./components/ui/Container";
-import Navbar from "./components/layout/Navbar";
-import Hero from "./components/sections/Hero";
-import Companies from "./components/sections/Companies";
-import Services from "./components/sections/Services";
-import Features from "./components/sections/Features";
-import Portfolio from "./components/sections/Portfolio";
-import Process from "./components/sections/Process";
-import Testimonials from "./components/sections/Testimonials";
-import Pricing from "./components/sections/Pricing";
-import FAQ from "./components/sections/FAQ";
-import CTA from "./components/sections/CTA";
-import Footer from "./components/layout/Footer";
+import Container from "@/app/components/ui/Container";
+import Navbar from "@/app/components/layout/Navbar";
+import Hero from "@/app/components/sections/Hero";
+import Companies from "@/app/components/sections/Companies";
+import Services from "@/app/components/sections/Services";
+import Features from "@/app/components/sections/Features";
+import Portfolio from "@/app/components/sections/Portfolio";
+import Process from "@/app/components/sections/Process";
+import Testimonials from "@/app/components/sections/Testimonials";
+import Pricing from "@/app/components/sections/Pricing";
+import FAQ from "@/app/components/sections/FAQ";
+import CTA from "@/app/components/sections/CTA";
+import Footer from "@/app/components/layout/Footer";
 
 export default function Home() {
   return (
